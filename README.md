@@ -26,6 +26,11 @@
 
 ### 其它
 
+- [应急响应实战笔记](https://bypass007.github.io/Emergency-Response-Notes/)
+- [网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
+- [数据安全智能风控学习资源](https://github.com/LiaoWenzhe/dataRisk-detection-resources/blob/main/README_zh-CN.md)
+- [404notfound博客](https://4o4notfound.org/)
+- [Web安全之机器学习入门](https://github.com/duoergun0729/1book)：有很多数据集
 
 ## 贡献
 
